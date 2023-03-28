@@ -4,6 +4,7 @@ body{margin: 0%;}
 /*Masthead*/
 h2,h3,h4,h5,h6,a{
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
 }
 .masthead{
     display: flex;
